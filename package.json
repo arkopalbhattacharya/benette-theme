@@ -1,0 +1,25 @@
+{
+  "name": "benette-theme",
+  "version": "1.0.0",
+  "description": "Benette theme based on variations of sky/navy blue and a loud matte red",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arkopalbhattacharya/benette-theme.git"
+  },
+  "keywords": [
+    "benette",
+    "theme",
+    "blue",
+    "red"
+  ],
+  "author": "Arkopal Bhattacharya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arkopalbhattacharya/benette-theme/issues"
+  },
+  "homepage": "https://github.com/arkopalbhattacharya/benette-theme#readme"
+}
