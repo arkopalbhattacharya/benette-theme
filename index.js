@@ -1,3 +1,6 @@
+// * Theme colors from coolors.co
+// * https://coolors.co/c33c54-254e70-aef3e7-37718e-8ee3ef
+
 const theme = {
   "Brick Red": "c33c54",
   "Indigo Dye": "254e70",
