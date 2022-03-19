@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/arkopalbhattacharya/benette-theme/issues"
   },
-  "homepage": "https://github.com/arkopalbhattacharya/benette-theme#readme"
+  "homepage": "https://github.com/arkopalbhattacharya/benette-theme#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
